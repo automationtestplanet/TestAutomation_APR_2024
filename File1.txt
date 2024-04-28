@@ -1,3 +1,1 @@
 Hello this is Automation Test Planet
-
-This is Java
