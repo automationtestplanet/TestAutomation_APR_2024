@@ -1,3 +1,5 @@
 Hello this is Automation Test Planet
 
 This is Java
+
+New text added
